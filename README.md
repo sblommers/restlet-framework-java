@@ -1,3 +1,5 @@
+This is a fork of 2.5m1 and updated to latest GWT 2.10.0.
+
 # Restlet Framework
 
 ## The leading RESTful Web API framework for Java
