@@ -99,7 +99,7 @@ public class BufferedReader extends Reader {
     }
 
     @Override
-    public int read(char[] cbuf, int off, int len) throws IOException {
+    public int read(char[] cbuf, int off, int len) {
         return source.read(cbuf, off, len);
     }
 
